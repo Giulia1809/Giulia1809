@@ -21,8 +21,8 @@
 
 > *Bachelor's Degree in Aerospace Engineering,* 
 
-> *Master's Degree in AI & Robotics Engineering,*
+> *Master's Degree in AI & Robotics Engineering,* 
 
-> *PhD in AI & Robotics for Aerospace systems - upon completion,* 
+> *Master's degree in Mathematics - Algebra & Geometry curriculum - currently enrolled,*
 
-> *Master's degree in Mathematics - Algebra & Geometry curriculum - currently enrolled.*
+> *PhD in AI & Robotics for Aerospace systems - upon completion.* 
