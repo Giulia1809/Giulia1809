@@ -29,6 +29,9 @@
 
 **My Skills** 
 2. I am very good at developing algorithms for my areas of expertise - so this is skill #1, 
+
 3. I am very good at writing code - so this is skill #2, 
+
 4. I am very good at learning new deep, systematic, and technical topics - and I love it -  so this is skill #3, 
+
 5. 
