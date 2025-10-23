@@ -16,8 +16,13 @@
         + Differential Equations 
 
 > *Yes, I spent most of my life studying and doing research, and I have no plans to stop doing so.*
+
 > *My studies:*
+
 > *Bachelor's Degree in Aerospace Engineering* 
+
 > *Master's Degree in AI & Robotics Engineering*
+
 > *PhD in AI & Robotics for Aerospace systems - upon completion* 
+
 > *Master's degree in Mathematics - Algebra & Geometry curriculum - currently enrolled*
