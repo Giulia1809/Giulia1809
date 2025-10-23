@@ -1,6 +1,6 @@
 ## Guidelines for Working & Collaborating with me: the Handbook
 
-**My background**
+**My background & Expertise**
 1. I am a polymath - I excel in the following areas of expertise: 
     - Computer Science & Automation Engineering: 
         + AI & Robotics 
@@ -23,6 +23,12 @@
 
 > *Master's Degree in AI & Robotics Engineering,* 
 
-> *Master's degree in Mathematics - Algebra & Geometry curriculum - currently enrolled,*
+> *Master's degree in Mathematics (Algebra & Geometry curriculum) - currently enrolled,*
 
-> *PhD in AI & Robotics for Aerospace systems - upon completion.* 
+> *PhD in AI & Robotics for Aerospace systems - upon completion.*  
+
+**My Skills** 
+2. I am very good at developing algorithms for my areas of expertise - so this is skill #1, 
+3. I am very good at writing code - so this is skill #2, 
+4. I am very good at learning new deep, systematic, and technical topics - and I love it -  so this is skill #3, 
+5. 
