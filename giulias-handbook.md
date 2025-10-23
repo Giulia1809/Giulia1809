@@ -20,6 +20,9 @@
 > *My studies:*
 
 > *Bachelor's Degree in Aerospace Engineering,* 
+
 > *Master's Degree in AI & Robotics Engineering,*
+
 > *PhD in AI & Robotics for Aerospace systems - upon completion,* 
+
 > *Master's degree in Mathematics - Algebra & Geometry curriculum - currently enrolled.*
