@@ -36,7 +36,7 @@
 
 4. I am very good at learning new deep, systematic, and technical topics - and I love it -  so this is skill #3, 
 
-5. I have good experience in both the lead researcher role and the project manager one, and I can shift as needed. 
+5. I have good experience in both the lead researcher role and the project manager one, and I can shift as needed - skill #4. 
 
 **What to know about me:** 
 
@@ -48,11 +48,11 @@
 
 9. I am not into pair programming or such, but, as an engineer, I am a great teammate on projects - I just need to have my space to work. 
 
-10. As an ADHDer, I thrive when working on multiple parallel "threads" simultaneously: I work best when I'm working on several deep, technical projects at once. 
+10. I thrive when working on multiple parallel "threads" simultaneously: I work best when I'm working on several deep, technical projects at once. 
 
 11. I love my routine: I've been keeping the same morning/workout/food routine for years, even when moving cities & countries. 
 
-12. As an ADHDer, I tend to be a night owl, or a (super) early bird: I work best when the outside world is quite (dusk till dawn) - as too much light and noise throw me off - but don't worry: we don't need to synchronize. 
+12. I tend to be a night owl, or a (super) early bird: I work best when the outside world is quite (dusk till dawn) - but don't worry: we don't need to synchronize. 
 
 13. Emails > texts >>> meetings/phone calls: asynchronous communications works best with me. I check my work emails 3 times a day, 5 days per week. 
 
@@ -66,4 +66,4 @@
 
 **How to contact me:** 
 
-You can send a polite, plain-text email to hello.bluelightlab[ at]gmail[dot ]com. One of us will get back to you, if we see fit. 
+You can send a polite, plain-text email to hello.bluelightlab[ at ]gmail[ dot ]com. One of us will get back to you, if we see fit. 
