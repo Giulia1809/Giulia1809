@@ -56,7 +56,7 @@
 
 13. Emails > texts >>> meetings/phone calls: asynchronous communications works best with me. I check my work emails 3 times a day, 5 days per week. 
 
-14. I dislike meetings & phone calls, as they disrupt my focus & concentration, and interfere with my routine - especially considering that I work best at night - I'm a big fan of replacing every meeting with emails. if there's no other option, I tend to "collapse" them all in one day per week. 
+14. I dislike meetings & phone calls, as they disrupt my focus & concentration, and interfere with my routine - especially considering that I work best at night - I'm a big fan of replacing every meeting with emails. If there's no other option, I tend to "collapse" them all in one day per week. 
 
 15. I am a workaholic and I work 5-6 days per week - with some light work on the 7th day. 
 
