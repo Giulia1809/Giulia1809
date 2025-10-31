@@ -16,7 +16,7 @@
         + Geometry & Algebraic Topology
         + Differential Equations 
 
-> *Yes, I spent most of my life studying and doing research, and I have no plans to stop doing so.*
+> *I spent most of my life studying and doing research, and I have no plans to stop doing so.*
 
 > *My studies:*
 
