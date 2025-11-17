@@ -16,6 +16,16 @@
         + Geometry & Algebraic Topology
         + Differential Equations 
 
+    - Languages: 
+        + English, Italian, Spanish, Portuguese, French 
+        + *"Dead" Languages:* Ancient Greek, Latin 
+        + *I'm learning:* German, Arabic 
+
+    - Drawing: 
+        + Geometric Drawing
+        + Mechanical Drawing
+        + Cyberpunk Drawing (also hand-free)
+
 > *I spent most of my life studying and doing research, and I have no plans to stop doing so.*
 
 > *My studies:*
