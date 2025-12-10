@@ -77,4 +77,5 @@
 **How to contact me:** 
 
 You can send a polite, plain-text email to hello.bluelightlab[ at ]gmail[ dot ]com. 
+
 I am generally easy-going & informal; however, if we are not yet acquainted, the best first impression is made by addressing me as Dr. 
