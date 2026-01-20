@@ -2,25 +2,27 @@
 
 **My background & Expertise:**
 
-1. I am a polymath - I excel in the following areas of expertise: 
+1. I work across multiple technical domains, with formal training and hands-on research experience in the following areas: 
+- ***Primary:***
     - Computer Science & Automation Engineering: 
         + AI & Robotics 
         + Quantum Computing 
     - Aerospace Engineering: 
         + Satellite TLC & Image Analysis
         + Trajectory Generation & Tracking 
-    - Physics: 
-        + High-Energy Physics 
-        + Astrophysics 
+- ***Strong Background***
     - Mathematics: 
         + Geometry & Algebraic Topology
         + Differential Equations 
-
+- ***Secondary:***
+    - Physics: 
+        + High-Energy Physics 
+        + Astrophysics 
+***Other Skills & Things I'm passionate about:***
     - Languages: 
         + English, Italian, Spanish, Portuguese, French 
         + *"Dead" Languages:* Ancient Greek, Latin 
         + *I'm learning:* German, Arabic 
-
     - Drawing: 
         + Geometric Drawing
         + Mechanical Drawing
@@ -78,4 +80,4 @@
 
 You can send a polite, plain-text email to hello.bluelightlab[ at ]gmail[ dot ]com. 
 
-I am generally easy-going & informal; however, if we are not yet acquainted, the best first impression is made by addressing me as Dr. 
+I am generally easy-going & informal; however, In formal or first-contact professional contexts, you may address me as Dr. 
