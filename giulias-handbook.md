@@ -18,7 +18,7 @@
     - Physics: 
         + High-Energy Physics 
         + Astrophysics 
-***Other Skills & Things I'm passionate about:***
+- ***Other Skills & Things I'm passionate about:***
     - Languages: 
         + English, Italian, Spanish, Portuguese, French 
         + *"Dead" Languages:* Ancient Greek, Latin 
