@@ -1,4 +1,6 @@
-## Guidelines for Working & Collaborating with me: the Handbook
+# Guidelines for Working & Collaborating with me: the Handbook 
+
+# ***What can I help you with?***
 
 **My background & Expertise:**
 
@@ -40,6 +42,8 @@
 
 > *PhD in AI & Robotics for Aerospace systems - upon completion.*  
 
+# ***How can I help you?***
+
 **My Skills:** 
 
 2. I am very good at developing & designing algorithms for my areas of expertise - so this is skill #1, 
@@ -49,6 +53,8 @@
 4. I am very good at learning new deep, systematic, and technical topics - and I love it -  so this is skill #3, 
 
 5. I have good experience in both the lead researcher role and the project manager one, and I can shift as needed - skill #4. 
+
+# ***When can I help you?***
 
 **What to know about me:** 
 
@@ -75,6 +81,8 @@
 16. I tend to be very busy with my work & my travels, as I get very excited about novelty - and I have the bad habit of taking on so much work about the stuff I love - so please be patient. 
 
 17. Most importantly: I am a huge privacy lover. 
+
+# ***Get in touch!***
 
 **How to contact me:** 
 
