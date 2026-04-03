@@ -46,11 +46,11 @@
 
 **My Skills:** 
 
-2. I am very good at developing && designing algorithms for my areas of expertise - so this is skill #1, 
+2. I am very good at developing && designing algorithms for my areas of expertise - this is skill #1, 
 
-3. I am very good at writing code - so this is skill #2, 
+3. I am very good at writing code - this is skill #2, 
 
-4. I am very good at learning new deep, systematic, and technical topics - and I love it -  so this is skill #3, 
+4. I am very good at learning new deep, systematic, and technical topics - and I love it - this is skill #3, 
 
 5. I have good experience in both the lead researcher role and the project manager one, and I can shift as needed - skill #4. 
 
