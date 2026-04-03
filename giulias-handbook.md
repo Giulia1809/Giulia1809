@@ -76,7 +76,7 @@
 
 14. I dislike meetings && phone calls, as they disrupt my focus && concentration, and interfere with my routine - especially considering that I work best at night - I'm a big fan of replacing every meeting with emails. If there's no other option, I tend to "collapse" them all in one day per week. 
 
-15. I am a workaholic and I work 5-6 days per week - with some light work on the 7th day. 
+15. I am a workaholic and I work 5-6 days per week - with some (optional) light work on the 7th day. 
 
 16. I tend to be very busy with my work && my travels, as I get very excited about novelty - and I have the bad habit of taking on so much work about the stuff I love - so please be patient. 
 
