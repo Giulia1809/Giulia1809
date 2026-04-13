@@ -2,7 +2,7 @@
 
 ### :anatomical_heart: Human-coded with Love :anatomical_heart: 
 
-### :rabbit2: -> :rabbit: :v:
+ :rabbit2: -> :rabbit: :v:
 <!--
 **Giulia1809/Giulia1809** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
