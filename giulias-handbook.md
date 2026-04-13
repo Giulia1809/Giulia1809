@@ -54,6 +54,8 @@
 
 5. I have good experience in both the lead researcher role and the project manager one, and I can shift as needed - skill #4. 
 
+6. I am very good at brainstorming - and hackathons! - skill #5; 
+
 # ***When can I help you?***
 
 **What to know about me:** 
