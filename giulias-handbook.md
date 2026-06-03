@@ -40,7 +40,7 @@
 
 > *Master's degree in Mathematics (Algebra & Geometry curriculum) - currently enrolled,*
 
-> *PhD in AI & Robotics for Aerospace systems - upon completion.*  
+> *PhD in AI & Robotics for Aerospace systems*  
 
 # ***How can I help you?***
 
