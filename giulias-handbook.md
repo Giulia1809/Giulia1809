@@ -34,13 +34,16 @@
 
 > *My studies:*
 
-> *Bachelor's Degree in Aerospace Engineering,* 
-
-> *Master's Degree in AI & Robotics Engineering,* 
-
-> *Master's degree in Mathematics (Algebra & Geometry curriculum) - currently enrolled,*
-
 > *PhD in AI & Robotics for Aerospace systems*  
+
+> *Master's degree in Mathematics (Algebra & Geometry curriculum) - currently enrolled* 
+
+> *Master's Degree in AI & Robotics Engineering* 
+
+> *Bachelor's Degree in Aerospace Engineering* 
+
+
+
 
 # ***How can I help you?***
 
